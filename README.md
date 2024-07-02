@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smokyhead!
-- 👀 I’m interested in mobile development and video games development.
-- 🌱 I’m currently learning Dart and Flutter.
+- 👀 I’m interested in mobile development.
+- 🌱 I’m currently learning Flutter.
 
 <!---
 Smokyhead/Smokyhead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
